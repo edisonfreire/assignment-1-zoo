@@ -9,6 +9,6 @@
 
 ## GitHub Pages Deployment
 
-Our website is deployed on GitHub Pages. You can visit it at the following link:
+The website is deployed on GitHub Pages. You can visit it at the following link:
 
 🔗 **[GitHub Pages Website](https://edisonfreire.github.io/assignment-1-zoo)**
