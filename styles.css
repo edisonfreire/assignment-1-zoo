@@ -30,3 +30,14 @@
   font-size: 1.2rem; /* Smaller font size */
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
 }
+
+.carousel-container {
+  max-width: 600px; /* Set a fixed width for the carousel */
+  margin: 0 auto; /* Center the carousel */
+}
+
+.carousel-item img {
+  height: 300px; /* Fixed height for the images */
+  object-fit: cover;
+  width: 100%; /* Ensure the images cover the width of the carousel */
+}
